@@ -1,0 +1,720 @@
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+node:internal/errors:478
+    ErrorCaptureStackTrace(err);
+    ^
+
+Error [ERR_MODULE_NOT_FOUND]: Cannot find package 'shiki' imported from /usr/java/vitepress-template-master/node_modules/vitepress/dist/node/cli.js
+    at new NodeError (node:internal/errors:387:5)
+    at packageResolve (node:internal/modules/esm/resolve:852:9)
+    at moduleResolve (node:internal/modules/esm/resolve:901:20)
+    at defaultResolve (node:internal/modules/esm/resolve:1115:11)
+    at nextResolve (node:internal/modules/esm/loader:163:28)
+    at ESMLoader.resolve (node:internal/modules/esm/loader:841:30)
+    at ESMLoader.getModuleJob (node:internal/modules/esm/loader:424:18)
+    at ModuleWrap.<anonymous> (node:internal/modules/esm/module_job:76:40)
+    at link (node:internal/modules/esm/module_job:75:36) {
+  code: 'ERR_MODULE_NOT_FOUND'
+}
+ ELIFECYCLE  Command failed with exit code 1.
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+Port 1216 is in use, trying another one...
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1217/
+  ➜  Network: http://10.0.8.6:1217/
+  ➜  Network: http://172.17.0.1:1217/
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1216/
+  ➜  Network: http://10.0.8.6:1216/
+  ➜  Network: http://172.17.0.1:1216/
+
+The language 'xnk' is not loaded, falling back to 'txt' for syntax highlighting.
+
+(!) Found dead link http://localhost:9001/ in file /usr/java/vitepress-template-master/docs/microservices/gate.md
+If it is intended, you can use:
+    <a href="http://localhost:9001/" target="_blank" rel="noreferrer">http://localhost:9001/</a>
+
+(!) Found dead link http://localhost:8060/api/%EF%BC%8COSS in file /usr/java/vitepress-template-master/docs/microservices/gate.md
+If it is intended, you can use:
+    <a href="http://localhost:8060/api/%EF%BC%8COSS" target="_blank" rel="noreferrer">http://localhost:8060/api/%EF%BC%8COSS</a>
+
+(!) Found dead link http://localhost:14000%E3%80%82/ in file /usr/java/vitepress-template-master/docs/microservices/gate.md
+If it is intended, you can use:
+    <a href="http://localhost:14000%E3%80%82/" target="_blank" rel="noreferrer">http://localhost:14000%E3%80%82/</a>
+
+(!) Found dead link http://localhost:9999/member/member/studytime/list/test in file /usr/java/vitepress-template-master/docs/microservices/openfeign.md
+If it is intended, you can use:
+    <a href="http://localhost:9999/member/member/studytime/list/test" target="_blank" rel="noreferrer">http://localhost:9999/member/member/studytime/list/test</a>
+
+(!) Found dead link http://localhost:8060/api/%EF%BC%8C%E6%89%80%E4%BB%A5%E9%9C%80%E8%A6%81%E5%B0%86%E8%AE%BF%E9%97%AEthirdparty%E7%9A%84%E6%9C%8D%E5%8A%A1%E9%80%9A%E8%BF%87%E7%BD%91%E5%85%B3%E8%B7%AF%E7%94%B1%E5%88%B0thirdparty%E6%9C%8D%E5%8A%A1 in file /usr/java/vitepress-template-master/docs/microservices/oss.md
+If it is intended, you can use:
+    <a href="http://localhost:8060/api/%EF%BC%8C%E6%89%80%E4%BB%A5%E9%9C%80%E8%A6%81%E5%B0%86%E8%AE%BF%E9%97%AEthirdparty%E7%9A%84%E6%9C%8D%E5%8A%A1%E9%80%9A%E8%BF%87%E7%BD%91%E5%85%B3%E8%B7%AF%E7%94%B1%E5%88%B0thirdparty%E6%9C%8D%E5%8A%A1" target="_blank" rel="noreferrer">http://localhost:8060/api/%EF%BC%8C%E6%89%80%E4%BB%A5%E9%9C%80%E8%A6%81%E5%B0%86%E8%AE%BF%E9%97%AEthirdparty%E7%9A%84%E6%9C%8D%E5%8A%A1%E9%80%9A%E8%BF%87%E7%BD%91%E5%85%B3%E8%B7%AF%E7%94%B1%E5%88%B0thirdparty%E6%9C%8D%E5%8A%A1</a>
+
+(!) Found dead link http://localhost:8848/nacos/index.html#/login in file /usr/java/vitepress-template-master/docs/microservices/nacos.md
+If it is intended, you can use:
+    <a href="http://localhost:8848/nacos/index.html#/login" target="_blank" rel="noreferrer">http://localhost:8848/nacos/index.html#/login</a>
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1216/
+  ➜  Network: http://10.0.8.6:1216/
+  ➜  Network: http://172.17.0.1:1216/
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1216/
+  ➜  Network: http://10.0.8.6:1216/
+  ➜  Network: http://172.17.0.1:1216/
+
+(!) Found dead link http://localhost:9999/member/member/studytime/list/test in file /usr/java/vitepress-template-master/docs/microservices/openfeign.md
+If it is intended, you can use:
+    <a href="http://localhost:9999/member/member/studytime/list/test" target="_blank" rel="noreferrer">http://localhost:9999/member/member/studytime/list/test</a>
+
+(!) Found dead link http://localhost:9001/ in file /usr/java/vitepress-template-master/docs/microservices/gate.md
+If it is intended, you can use:
+    <a href="http://localhost:9001/" target="_blank" rel="noreferrer">http://localhost:9001/</a>
+
+(!) Found dead link http://localhost:8060/api/%EF%BC%8COSS in file /usr/java/vitepress-template-master/docs/microservices/gate.md
+If it is intended, you can use:
+    <a href="http://localhost:8060/api/%EF%BC%8COSS" target="_blank" rel="noreferrer">http://localhost:8060/api/%EF%BC%8COSS</a>
+
+(!) Found dead link http://localhost:14000%E3%80%82/ in file /usr/java/vitepress-template-master/docs/microservices/gate.md
+If it is intended, you can use:
+    <a href="http://localhost:14000%E3%80%82/" target="_blank" rel="noreferrer">http://localhost:14000%E3%80%82/</a>
+
+(!) Found dead link http://localhost:8080/renren-fast/ in file /usr/java/vitepress-template-master/docs/microservices/admin.md
+If it is intended, you can use:
+    <a href="http://localhost:8080/renren-fast/" target="_blank" rel="noreferrer">http://localhost:8080/renren-fast/</a>
+
+(!) Found dead link http://localhost:8002/ in file /usr/java/vitepress-template-master/docs/microservices/admin.md
+If it is intended, you can use:
+    <a href="http://localhost:8002/" target="_blank" rel="noreferrer">http://localhost:8002/</a>
+
+(!) Found dead link http://localhost:8848/nacos/index.html#/login in file /usr/java/vitepress-template-master/docs/microservices/nacos.md
+If it is intended, you can use:
+    <a href="http://localhost:8848/nacos/index.html#/login" target="_blank" rel="noreferrer">http://localhost:8848/nacos/index.html#/login</a>
+
+(!) Found dead link http://localhost:8002/#/question-type,%E9%A1%B5%E9%9D%A2%E6%98%BE%E7%A4%BA%E7%A9%BA%E7%99%BD%E9%A1%B5%E9%9D%A2 in file /usr/java/vitepress-template-master/docs/microservices/test.md
+If it is intended, you can use:
+    <a href="http://localhost:8002/#/question-type,%E9%A1%B5%E9%9D%A2%E6%98%BE%E7%A4%BA%E7%A9%BA%E7%99%BD%E9%A1%B5%E9%9D%A2" target="_blank" rel="noreferrer">http://localhost:8002/#/question-type,%E9%A1%B5%E9%9D%A2%E6%98%BE%E7%A4%BA%E7%A9%BA%E7%99%BD%E9%A1%B5%E9%9D%A2</a>
+
+(!) Found dead link http://localhost:8080/renren-fast/question/type/list?t=1587825969456&page=1&limit=10&key= in file /usr/java/vitepress-template-master/docs/microservices/test.md
+If it is intended, you can use:
+    <a href="http://localhost:8080/renren-fast/question/type/list?t=1587825969456&page=1&limit=10&key=" target="_blank" rel="noreferrer">http://localhost:8080/renren-fast/question/type/list?t=1587825969456&page=1&limit=10&key=</a>
+
+(!) Found dead link http://localhost:8060/api/captcha.jpg%EF%BC%8C%E7%BD%91%E5%85%B3%E5%B0%86%E8%AF%B7%E6%B1%82%E8%BD%AC%E5%8F%91%E5%88%B0http://localhost:8060/api/renren-fast/captcha.jpg%E3%80%82 in file /usr/java/vitepress-template-master/docs/microservices/test.md
+If it is intended, you can use:
+    <a href="http://localhost:8060/api/captcha.jpg%EF%BC%8C%E7%BD%91%E5%85%B3%E5%B0%86%E8%AF%B7%E6%B1%82%E8%BD%AC%E5%8F%91%E5%88%B0http://localhost:8060/api/renren-fast/captcha.jpg%E3%80%82" target="_blank" rel="noreferrer">http://localhost:8060/api/captcha.jpg%EF%BC%8C%E7%BD%91%E5%85%B3%E5%B0%86%E8%AF%B7%E6%B1%82%E8%BD%AC%E5%8F%91%E5%88%B0http://localhost:8060/api/renren-fast/captcha.jpg%E3%80%82</a>
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1216/
+  ➜  Network: http://10.0.8.6:1216/
+  ➜  Network: http://172.17.0.1:1216/
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1216/
+  ➜  Network: http://10.0.8.6:1216/
+  ➜  Network: http://172.17.0.1:1216/
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1216/
+  ➜  Network: http://10.0.8.6:1216/
+  ➜  Network: http://172.17.0.1:1216/
+
+(!) Found dead link http://localhost:8002/#/question-type,%E9%A1%B5%E9%9D%A2%E6%98%BE%E7%A4%BA%E7%A9%BA%E7%99%BD%E9%A1%B5%E9%9D%A2 in file /usr/java/vitepress-template-master/docs/microservices/test.md
+If it is intended, you can use:
+    <a href="http://localhost:8002/#/question-type,%E9%A1%B5%E9%9D%A2%E6%98%BE%E7%A4%BA%E7%A9%BA%E7%99%BD%E9%A1%B5%E9%9D%A2" target="_blank" rel="noreferrer">http://localhost:8002/#/question-type,%E9%A1%B5%E9%9D%A2%E6%98%BE%E7%A4%BA%E7%A9%BA%E7%99%BD%E9%A1%B5%E9%9D%A2</a>
+
+(!) Found dead link http://localhost:8080/renren-fast/question/type/list?t=1587825969456&page=1&limit=10&key= in file /usr/java/vitepress-template-master/docs/microservices/test.md
+If it is intended, you can use:
+    <a href="http://localhost:8080/renren-fast/question/type/list?t=1587825969456&page=1&limit=10&key=" target="_blank" rel="noreferrer">http://localhost:8080/renren-fast/question/type/list?t=1587825969456&page=1&limit=10&key=</a>
+
+(!) Found dead link http://localhost:8060/api/captcha.jpg%EF%BC%8C%E7%BD%91%E5%85%B3%E5%B0%86%E8%AF%B7%E6%B1%82%E8%BD%AC%E5%8F%91%E5%88%B0http://localhost:8060/api/renren-fast/captcha.jpg%E3%80%82 in file /usr/java/vitepress-template-master/docs/microservices/test.md
+If it is intended, you can use:
+    <a href="http://localhost:8060/api/captcha.jpg%EF%BC%8C%E7%BD%91%E5%85%B3%E5%B0%86%E8%AF%B7%E6%B1%82%E8%BD%AC%E5%8F%91%E5%88%B0http://localhost:8060/api/renren-fast/captcha.jpg%E3%80%82" target="_blank" rel="noreferrer">http://localhost:8060/api/captcha.jpg%EF%BC%8C%E7%BD%91%E5%85%B3%E5%B0%86%E8%AF%B7%E6%B1%82%E8%BD%AC%E5%8F%91%E5%88%B0http://localhost:8060/api/renren-fast/captcha.jpg%E3%80%82</a>
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1216/
+  ➜  Network: http://10.0.8.6:1216/
+  ➜  Network: http://172.17.0.1:1216/
+
+The language 'xnk' is not loaded, falling back to 'txt' for syntax highlighting.
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1216/
+  ➜  Network: http://10.0.8.6:1216/
+  ➜  Network: http://172.17.0.1:1216/
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1216/
+  ➜  Network: http://10.0.8.6:1216/
+  ➜  Network: http://172.17.0.1:1216/
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1216/
+  ➜  Network: http://10.0.8.6:1216/
+  ➜  Network: http://172.17.0.1:1216/
+
+(!) Found dead link http://localhost:8060/api/%EF%BC%8C%E6%89%80%E4%BB%A5%E9%9C%80%E8%A6%81%E5%B0%86%E8%AE%BF%E9%97%AEthirdparty%E7%9A%84%E6%9C%8D%E5%8A%A1%E9%80%9A%E8%BF%87%E7%BD%91%E5%85%B3%E8%B7%AF%E7%94%B1%E5%88%B0thirdparty%E6%9C%8D%E5%8A%A1 in file /usr/java/vitepress-template-master/docs/microservices/oss.md
+If it is intended, you can use:
+    <a href="http://localhost:8060/api/%EF%BC%8C%E6%89%80%E4%BB%A5%E9%9C%80%E8%A6%81%E5%B0%86%E8%AE%BF%E9%97%AEthirdparty%E7%9A%84%E6%9C%8D%E5%8A%A1%E9%80%9A%E8%BF%87%E7%BD%91%E5%85%B3%E8%B7%AF%E7%94%B1%E5%88%B0thirdparty%E6%9C%8D%E5%8A%A1" target="_blank" rel="noreferrer">http://localhost:8060/api/%EF%BC%8C%E6%89%80%E4%BB%A5%E9%9C%80%E8%A6%81%E5%B0%86%E8%AE%BF%E9%97%AEthirdparty%E7%9A%84%E6%9C%8D%E5%8A%A1%E9%80%9A%E8%BF%87%E7%BD%91%E5%85%B3%E8%B7%AF%E7%94%B1%E5%88%B0thirdparty%E6%9C%8D%E5%8A%A1</a>
+
+(!) Found dead link http://localhost:8002/#/question-type,%E9%A1%B5%E9%9D%A2%E6%98%BE%E7%A4%BA%E7%A9%BA%E7%99%BD%E9%A1%B5%E9%9D%A2 in file /usr/java/vitepress-template-master/docs/microservices/test.md
+If it is intended, you can use:
+    <a href="http://localhost:8002/#/question-type,%E9%A1%B5%E9%9D%A2%E6%98%BE%E7%A4%BA%E7%A9%BA%E7%99%BD%E9%A1%B5%E9%9D%A2" target="_blank" rel="noreferrer">http://localhost:8002/#/question-type,%E9%A1%B5%E9%9D%A2%E6%98%BE%E7%A4%BA%E7%A9%BA%E7%99%BD%E9%A1%B5%E9%9D%A2</a>
+
+(!) Found dead link http://localhost:8080/renren-fast/question/type/list?t=1587825969456&page=1&limit=10&key= in file /usr/java/vitepress-template-master/docs/microservices/test.md
+If it is intended, you can use:
+    <a href="http://localhost:8080/renren-fast/question/type/list?t=1587825969456&page=1&limit=10&key=" target="_blank" rel="noreferrer">http://localhost:8080/renren-fast/question/type/list?t=1587825969456&page=1&limit=10&key=</a>
+
+(!) Found dead link http://localhost:8060/api/captcha.jpg%EF%BC%8C%E7%BD%91%E5%85%B3%E5%B0%86%E8%AF%B7%E6%B1%82%E8%BD%AC%E5%8F%91%E5%88%B0http://localhost:8060/api/renren-fast/captcha.jpg%E3%80%82 in file /usr/java/vitepress-template-master/docs/microservices/test.md
+If it is intended, you can use:
+    <a href="http://localhost:8060/api/captcha.jpg%EF%BC%8C%E7%BD%91%E5%85%B3%E5%B0%86%E8%AF%B7%E6%B1%82%E8%BD%AC%E5%8F%91%E5%88%B0http://localhost:8060/api/renren-fast/captcha.jpg%E3%80%82" target="_blank" rel="noreferrer">http://localhost:8060/api/captcha.jpg%EF%BC%8C%E7%BD%91%E5%85%B3%E5%B0%86%E8%AF%B7%E6%B1%82%E8%BD%AC%E5%8F%91%E5%88%B0http://localhost:8060/api/renren-fast/captcha.jpg%E3%80%82</a>
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1216/
+  ➜  Network: http://10.0.8.6:1216/
+  ➜  Network: http://172.17.0.1:1216/
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1216/
+  ➜  Network: http://10.0.8.6:1216/
+  ➜  Network: http://172.17.0.1:1216/
+
+(!) Found dead link http://localhost:8002/#/question-type,%E9%A1%B5%E9%9D%A2%E6%98%BE%E7%A4%BA%E7%A9%BA%E7%99%BD%E9%A1%B5%E9%9D%A2 in file /usr/java/vitepress-template-master/docs/microservices/test.md
+If it is intended, you can use:
+    <a href="http://localhost:8002/#/question-type,%E9%A1%B5%E9%9D%A2%E6%98%BE%E7%A4%BA%E7%A9%BA%E7%99%BD%E9%A1%B5%E9%9D%A2" target="_blank" rel="noreferrer">http://localhost:8002/#/question-type,%E9%A1%B5%E9%9D%A2%E6%98%BE%E7%A4%BA%E7%A9%BA%E7%99%BD%E9%A1%B5%E9%9D%A2</a>
+
+(!) Found dead link http://localhost:8080/renren-fast/question/type/list?t=1587825969456&page=1&limit=10&key= in file /usr/java/vitepress-template-master/docs/microservices/test.md
+If it is intended, you can use:
+    <a href="http://localhost:8080/renren-fast/question/type/list?t=1587825969456&page=1&limit=10&key=" target="_blank" rel="noreferrer">http://localhost:8080/renren-fast/question/type/list?t=1587825969456&page=1&limit=10&key=</a>
+
+(!) Found dead link http://localhost:8060/api/captcha.jpg%EF%BC%8C%E7%BD%91%E5%85%B3%E5%B0%86%E8%AF%B7%E6%B1%82%E8%BD%AC%E5%8F%91%E5%88%B0http://localhost:8060/api/renren-fast/captcha.jpg%E3%80%82 in file /usr/java/vitepress-template-master/docs/microservices/test.md
+If it is intended, you can use:
+    <a href="http://localhost:8060/api/captcha.jpg%EF%BC%8C%E7%BD%91%E5%85%B3%E5%B0%86%E8%AF%B7%E6%B1%82%E8%BD%AC%E5%8F%91%E5%88%B0http://localhost:8060/api/renren-fast/captcha.jpg%E3%80%82" target="_blank" rel="noreferrer">http://localhost:8060/api/captcha.jpg%EF%BC%8C%E7%BD%91%E5%85%B3%E5%B0%86%E8%AF%B7%E6%B1%82%E8%BD%AC%E5%8F%91%E5%88%B0http://localhost:8060/api/renren-fast/captcha.jpg%E3%80%82</a>
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1216/
+  ➜  Network: http://10.0.8.6:1216/
+  ➜  Network: http://172.17.0.1:1216/
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1216/
+  ➜  Network: http://10.0.8.6:1216/
+  ➜  Network: http://172.17.0.1:1216/
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1216/
+  ➜  Network: http://10.0.8.6:1216/
+  ➜  Network: http://172.17.0.1:1216/
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1216/
+  ➜  Network: http://10.0.8.6:1216/
+  ➜  Network: http://172.17.0.1:1216/
+
+(!) Found dead link http://localhost:8002/#/question-type,%E9%A1%B5%E9%9D%A2%E6%98%BE%E7%A4%BA%E7%A9%BA%E7%99%BD%E9%A1%B5%E9%9D%A2 in file /usr/java/vitepress-template-master/docs/microservices/test.md
+If it is intended, you can use:
+    <a href="http://localhost:8002/#/question-type,%E9%A1%B5%E9%9D%A2%E6%98%BE%E7%A4%BA%E7%A9%BA%E7%99%BD%E9%A1%B5%E9%9D%A2" target="_blank" rel="noreferrer">http://localhost:8002/#/question-type,%E9%A1%B5%E9%9D%A2%E6%98%BE%E7%A4%BA%E7%A9%BA%E7%99%BD%E9%A1%B5%E9%9D%A2</a>
+
+(!) Found dead link http://localhost:8080/renren-fast/question/type/list?t=1587825969456&page=1&limit=10&key= in file /usr/java/vitepress-template-master/docs/microservices/test.md
+If it is intended, you can use:
+    <a href="http://localhost:8080/renren-fast/question/type/list?t=1587825969456&page=1&limit=10&key=" target="_blank" rel="noreferrer">http://localhost:8080/renren-fast/question/type/list?t=1587825969456&page=1&limit=10&key=</a>
+
+(!) Found dead link http://localhost:8060/api/captcha.jpg%EF%BC%8C%E7%BD%91%E5%85%B3%E5%B0%86%E8%AF%B7%E6%B1%82%E8%BD%AC%E5%8F%91%E5%88%B0http://localhost:8060/api/renren-fast/captcha.jpg%E3%80%82 in file /usr/java/vitepress-template-master/docs/microservices/test.md
+If it is intended, you can use:
+    <a href="http://localhost:8060/api/captcha.jpg%EF%BC%8C%E7%BD%91%E5%85%B3%E5%B0%86%E8%AF%B7%E6%B1%82%E8%BD%AC%E5%8F%91%E5%88%B0http://localhost:8060/api/renren-fast/captcha.jpg%E3%80%82" target="_blank" rel="noreferrer">http://localhost:8060/api/captcha.jpg%EF%BC%8C%E7%BD%91%E5%85%B3%E5%B0%86%E8%AF%B7%E6%B1%82%E8%BD%AC%E5%8F%91%E5%88%B0http://localhost:8060/api/renren-fast/captcha.jpg%E3%80%82</a>
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1216/
+  ➜  Network: http://10.0.8.6:1216/
+  ➜  Network: http://172.17.0.1:1216/
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1216/
+  ➜  Network: http://10.0.8.6:1216/
+  ➜  Network: http://172.17.0.1:1216/
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1216/
+  ➜  Network: http://10.0.8.6:1216/
+  ➜  Network: http://172.17.0.1:1216/
+
+(!) Found dead link http://localhost:8060/api/%EF%BC%8C%E6%89%80%E4%BB%A5%E9%9C%80%E8%A6%81%E5%B0%86%E8%AE%BF%E9%97%AEthirdparty%E7%9A%84%E6%9C%8D%E5%8A%A1%E9%80%9A%E8%BF%87%E7%BD%91%E5%85%B3%E8%B7%AF%E7%94%B1%E5%88%B0thirdparty%E6%9C%8D%E5%8A%A1 in file /usr/java/vitepress-template-master/docs/microservices/oss.md
+If it is intended, you can use:
+    <a href="http://localhost:8060/api/%EF%BC%8C%E6%89%80%E4%BB%A5%E9%9C%80%E8%A6%81%E5%B0%86%E8%AE%BF%E9%97%AEthirdparty%E7%9A%84%E6%9C%8D%E5%8A%A1%E9%80%9A%E8%BF%87%E7%BD%91%E5%85%B3%E8%B7%AF%E7%94%B1%E5%88%B0thirdparty%E6%9C%8D%E5%8A%A1" target="_blank" rel="noreferrer">http://localhost:8060/api/%EF%BC%8C%E6%89%80%E4%BB%A5%E9%9C%80%E8%A6%81%E5%B0%86%E8%AE%BF%E9%97%AEthirdparty%E7%9A%84%E6%9C%8D%E5%8A%A1%E9%80%9A%E8%BF%87%E7%BD%91%E5%85%B3%E8%B7%AF%E7%94%B1%E5%88%B0thirdparty%E6%9C%8D%E5%8A%A1</a>
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1216/
+  ➜  Network: http://10.0.8.6:1216/
+  ➜  Network: http://172.17.0.1:1216/
+
+(!) Found dead link http://localhost:9999/member/member/studytime/list/test in file /usr/java/vitepress-template-master/docs/microservices/openfeign.md
+If it is intended, you can use:
+    <a href="http://localhost:9999/member/member/studytime/list/test" target="_blank" rel="noreferrer">http://localhost:9999/member/member/studytime/list/test</a>
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1216/
+  ➜  Network: http://10.0.8.6:1216/
+  ➜  Network: http://172.17.0.1:1216/
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1216/
+  ➜  Network: http://10.0.8.6:1216/
+  ➜  Network: http://172.17.0.1:1216/
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1216/
+  ➜  Network: http://10.0.8.6:1216/
+  ➜  Network: http://172.17.0.1:1216/
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1216/
+  ➜  Network: http://10.0.8.6:1216/
+  ➜  Network: http://172.17.0.1:1216/
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+Port 1216 is in use, trying another one...
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1217/
+  ➜  Network: http://10.0.8.6:1217/
+  ➜  Network: http://172.17.0.1:1217/
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+Port 1216 is in use, trying another one...
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1217/
+  ➜  Network: http://10.0.8.6:1217/
+  ➜  Network: http://172.17.0.1:1217/
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+Port 1216 is in use, trying another one...
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1217/
+  ➜  Network: http://10.0.8.6:1217/
+  ➜  Network: http://172.17.0.1:1217/
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+Port 1216 is in use, trying another one...
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1217/
+  ➜  Network: http://10.0.8.6:1217/
+  ➜  Network: http://172.17.0.1:1217/
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+Port 1216 is in use, trying another one...
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1217/
+  ➜  Network: http://10.0.8.6:1217/
+  ➜  Network: http://172.17.0.1:1217/
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+Port 1216 is in use, trying another one...
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1217/
+  ➜  Network: http://10.0.8.6:1217/
+  ➜  Network: http://172.17.0.1:1217/
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+Port 1216 is in use, trying another one...
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1217/
+  ➜  Network: http://10.0.8.6:1217/
+  ➜  Network: http://172.17.0.1:1217/
+
+(!) Found dead link http://localhost:8002/#/question-type,%E9%A1%B5%E9%9D%A2%E6%98%BE%E7%A4%BA%E7%A9%BA%E7%99%BD%E9%A1%B5%E9%9D%A2 in file /usr/java/vitepress-template-master/docs/microservices/test.md
+If it is intended, you can use:
+    <a href="http://localhost:8002/#/question-type,%E9%A1%B5%E9%9D%A2%E6%98%BE%E7%A4%BA%E7%A9%BA%E7%99%BD%E9%A1%B5%E9%9D%A2" target="_blank" rel="noreferrer">http://localhost:8002/#/question-type,%E9%A1%B5%E9%9D%A2%E6%98%BE%E7%A4%BA%E7%A9%BA%E7%99%BD%E9%A1%B5%E9%9D%A2</a>
+
+(!) Found dead link http://localhost:8080/renren-fast/question/type/list?t=1587825969456&page=1&limit=10&key= in file /usr/java/vitepress-template-master/docs/microservices/test.md
+If it is intended, you can use:
+    <a href="http://localhost:8080/renren-fast/question/type/list?t=1587825969456&page=1&limit=10&key=" target="_blank" rel="noreferrer">http://localhost:8080/renren-fast/question/type/list?t=1587825969456&page=1&limit=10&key=</a>
+
+(!) Found dead link http://localhost:8060/api/captcha.jpg%EF%BC%8C%E7%BD%91%E5%85%B3%E5%B0%86%E8%AF%B7%E6%B1%82%E8%BD%AC%E5%8F%91%E5%88%B0http://localhost:8060/api/renren-fast/captcha.jpg%E3%80%82 in file /usr/java/vitepress-template-master/docs/microservices/test.md
+If it is intended, you can use:
+    <a href="http://localhost:8060/api/captcha.jpg%EF%BC%8C%E7%BD%91%E5%85%B3%E5%B0%86%E8%AF%B7%E6%B1%82%E8%BD%AC%E5%8F%91%E5%88%B0http://localhost:8060/api/renren-fast/captcha.jpg%E3%80%82" target="_blank" rel="noreferrer">http://localhost:8060/api/captcha.jpg%EF%BC%8C%E7%BD%91%E5%85%B3%E5%B0%86%E8%AF%B7%E6%B1%82%E8%BD%AC%E5%8F%91%E5%88%B0http://localhost:8060/api/renren-fast/captcha.jpg%E3%80%82</a>
+
+(!) Found dead link http://localhost:8080/renren-fast/ in file /usr/java/vitepress-template-master/docs/microservices/admin.md
+If it is intended, you can use:
+    <a href="http://localhost:8080/renren-fast/" target="_blank" rel="noreferrer">http://localhost:8080/renren-fast/</a>
+
+(!) Found dead link http://localhost:8002/ in file /usr/java/vitepress-template-master/docs/microservices/admin.md
+If it is intended, you can use:
+    <a href="http://localhost:8002/" target="_blank" rel="noreferrer">http://localhost:8002/</a>
+
+> vitepress-template@ dev /usr/java/vitepress-template-master
+> vitepress dev
+
+Port 1216 is in use, trying another one...
+
+  vitepress v1.0.0-alpha.47
+
+  ➜  Local:   http://localhost:1217/
+  ➜  Network: http://10.0.8.6:1217/
+  ➜  Network: http://172.17.0.1:1217/
+10:20:08 PM [vitepress] Internal server error: Invalid URL
+      at new NodeError (node:internal/errors:387:5)
+      at URL.onParseError (node:internal/url:565:9)
+      at parse (<anonymous>)
+      at new URL (node:internal/url:641:5)
+      at viteServeRawFsMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:39238:21)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+      at viteTransformMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:60751:9)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+10:24:28 PM [vitepress] Internal server error: Invalid URL
+      at new NodeError (node:internal/errors:387:5)
+      at URL.onParseError (node:internal/url:565:9)
+      at parse (<anonymous>)
+      at new URL (node:internal/url:641:5)
+      at viteServeRawFsMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:39238:21)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+      at viteTransformMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:60751:9)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+10:24:56 PM [vitepress] Internal server error: URI malformed
+      at decodeURI (<anonymous>)
+      at viteTransformMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:60600:19)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+      at file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:39131:28
+      at viteServePublicMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:39181:9)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47250:14)
+      at cors (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47804:7)
+10:24:57 PM [vitepress] Internal server error: URI malformed
+      at decodeURI (<anonymous>)
+      at viteTransformMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:60600:19)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+      at file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:39131:28
+      at viteServePublicMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:39181:9)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47250:14)
+      at cors (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47804:7)
+10:24:57 PM [vitepress] Internal server error: URI malformed
+      at decodeURI (<anonymous>)
+      at viteTransformMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:60600:19)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+      at file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:39131:28
+      at viteServePublicMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:39181:9)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47250:14)
+      at cors (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47804:7)
+10:24:58 PM [vitepress] Internal server error: URI malformed
+      at decodeURI (<anonymous>)
+      at viteTransformMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:60600:19)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+      at file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:39131:28
+      at viteServePublicMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:39181:9)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47250:14)
+      at cors (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47804:7)
+10:24:58 PM [vitepress] Internal server error: URI malformed
+      at decodeURI (<anonymous>)
+      at viteTransformMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:60600:19)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+      at file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:39131:28
+      at viteServePublicMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:39181:9)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47250:14)
+      at cors (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47804:7)
+10:24:58 PM [vitepress] Internal server error: URI malformed
+      at decodeURI (<anonymous>)
+      at viteTransformMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:60600:19)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+      at file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:39131:28
+      at viteServePublicMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:39181:9)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47250:14)
+      at cors (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47804:7)
+10:24:58 PM [vitepress] Internal server error: URI malformed
+      at decodeURI (<anonymous>)
+      at viteTransformMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:60600:19)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+      at file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:39131:28
+      at viteServePublicMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:39181:9)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47250:14)
+      at cors (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47804:7)
+10:24:59 PM [vitepress] Internal server error: URI malformed
+      at decodeURI (<anonymous>)
+      at viteTransformMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:60600:19)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+      at file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:39131:28
+      at viteServePublicMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:39181:9)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47250:14)
+      at cors (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47804:7)
+The request url "/etc/passwd" is outside of Vite serving allow list.
+
+- /usr/java/vitepress-template-master/node_modules/.pnpm/vitepress@1.0.0-alpha.47_@algolia+client-search@4.14.2_sass@1.55.0/node_modules/vitepress/dist/client
+- /usr/java/vitepress-template-master
+- /usr/java/vitepress-template-master
+
+Refer to docs https://vitejs.dev/config/server-options.html#server-fs-allow for configurations and more details.
+
+The request url "/etc/passwd" is outside of Vite serving allow list.
+The request url "/etc/passwd" is outside of Vite serving allow list.
+10:25:05 PM [vitepress] Internal server error: URI malformed
+      at decodeURI (<anonymous>)
+      at viteTransformMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:60600:19)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+      at file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:39131:28
+      at viteServePublicMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:39181:9)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47250:14)
+      at cors (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47804:7)
+10:36:33 PM [vitepress] Internal server error: Invalid URL
+      at new NodeError (node:internal/errors:387:5)
+      at URL.onParseError (node:internal/url:565:9)
+      at parse (<anonymous>)
+      at new URL (node:internal/url:641:5)
+      at viteServeRawFsMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:39238:21)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+      at viteTransformMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:60751:9)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+10:37:28 PM [vitepress] Internal server error: Invalid URL
+      at new NodeError (node:internal/errors:387:5)
+      at URL.onParseError (node:internal/url:565:9)
+      at parse (<anonymous>)
+      at new URL (node:internal/url:641:5)
+      at viteServeRawFsMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:39238:21)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+      at viteTransformMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:60751:9)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+files in the public directory are served at the root path.
+Instead of /public/, use /.
+10:46:10 PM [vitepress] Internal server error: URI malformed
+      at decodeURI (<anonymous>)
+      at viteTransformMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:60600:19)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+      at file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:39131:28
+      at viteServePublicMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:39181:9)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47250:14)
+      at cors (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47804:7)
+10:49:30 PM [vitepress] Internal server error: Invalid URL
+      at new NodeError (node:internal/errors:387:5)
+      at URL.onParseError (node:internal/url:565:9)
+      at new URL (node:internal/url:641:5)
+      at viteServeRawFsMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:39238:21)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+      at viteTransformMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:60751:9)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+      at file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:39131:28
+10:58:42 PM [vitepress] Internal server error: Invalid URL
+      at new NodeError (node:internal/errors:387:5)
+      at URL.onParseError (node:internal/url:565:9)
+      at new URL (node:internal/url:641:5)
+      at viteServeRawFsMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:39238:21)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+      at viteTransformMiddleware (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:60751:9)
+      at call (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47328:7)
+      at next (file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:47272:5)
+      at file:///usr/java/vitepress-template-master/node_modules/.pnpm/vite@4.1.4_sass@1.55.0/node_modules/vite/dist/node/chunks/dep-ca21228b.js:39131:28
+
+(!) Found dead link http://localhost:8848/nacos/index.html#/login in file /usr/java/vitepress-template-master/docs/microservices/nacos.md
+If it is intended, you can use:
+    <a href="http://localhost:8848/nacos/index.html#/login" target="_blank" rel="noreferrer">http://localhost:8848/nacos/index.html#/login</a>
+
+(!) Found dead link http://localhost:9999/member/member/studytime/list/test in file /usr/java/vitepress-template-master/docs/microservices/openfeign.md
+If it is intended, you can use:
+    <a href="http://localhost:9999/member/member/studytime/list/test" target="_blank" rel="noreferrer">http://localhost:9999/member/member/studytime/list/test</a>
+
+(!) Found dead link http://localhost:8060/api/%EF%BC%8C%E6%89%80%E4%BB%A5%E9%9C%80%E8%A6%81%E5%B0%86%E8%AE%BF%E9%97%AEthirdparty%E7%9A%84%E6%9C%8D%E5%8A%A1%E9%80%9A%E8%BF%87%E7%BD%91%E5%85%B3%E8%B7%AF%E7%94%B1%E5%88%B0thirdparty%E6%9C%8D%E5%8A%A1 in file /usr/java/vitepress-template-master/docs/microservices/oss.md
+If it is intended, you can use:
+    <a href="http://localhost:8060/api/%EF%BC%8C%E6%89%80%E4%BB%A5%E9%9C%80%E8%A6%81%E5%B0%86%E8%AE%BF%E9%97%AEthirdparty%E7%9A%84%E6%9C%8D%E5%8A%A1%E9%80%9A%E8%BF%87%E7%BD%91%E5%85%B3%E8%B7%AF%E7%94%B1%E5%88%B0thirdparty%E6%9C%8D%E5%8A%A1" target="_blank" rel="noreferrer">http://localhost:8060/api/%EF%BC%8C%E6%89%80%E4%BB%A5%E9%9C%80%E8%A6%81%E5%B0%86%E8%AE%BF%E9%97%AEthirdparty%E7%9A%84%E6%9C%8D%E5%8A%A1%E9%80%9A%E8%BF%87%E7%BD%91%E5%85%B3%E8%B7%AF%E7%94%B1%E5%88%B0thirdparty%E6%9C%8D%E5%8A%A1</a>
+
+(!) Found dead link http://localhost:9001/ in file /usr/java/vitepress-template-master/docs/microservices/gate.md
+If it is intended, you can use:
+    <a href="http://localhost:9001/" target="_blank" rel="noreferrer">http://localhost:9001/</a>
+
+(!) Found dead link http://localhost:8060/api/%EF%BC%8COSS in file /usr/java/vitepress-template-master/docs/microservices/gate.md
+If it is intended, you can use:
+    <a href="http://localhost:8060/api/%EF%BC%8COSS" target="_blank" rel="noreferrer">http://localhost:8060/api/%EF%BC%8COSS</a>
+
+(!) Found dead link http://localhost:14000%E3%80%82/ in file /usr/java/vitepress-template-master/docs/microservices/gate.md
+If it is intended, you can use:
+    <a href="http://localhost:14000%E3%80%82/" target="_blank" rel="noreferrer">http://localhost:14000%E3%80%82/</a>
