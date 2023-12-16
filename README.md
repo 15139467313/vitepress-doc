@@ -31,12 +31,3 @@ pnpm build
 pnpm serve
 ```
 
-## 🕵️‍♀️ 更新日志
-
-参考 [CHANGELOG.md](https://github.com/Tyh2001/vitepress-template/blob/master/CHANGELOG.md)
-
-## 🙏 贡献者
-
-该仓库由 [Tyh2001](https://github.com/Tyh2001) 提供。
-
-![](https://tianyuhao.cn/images/auto/weixin.png)
